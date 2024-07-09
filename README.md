@@ -18,7 +18,7 @@ Estoy comprometido con el **aprendizaje continuo y la mejora constante**, siempr
 
 Aquí puedes ver algunos de mis trabajos:
 
-- **HTML y CSS sencillo**: He desarrollado proyectos web utilizando HTML y CSS para crear interfaces atractivas y funcionales.
+- **HTML y CSS sencillo**: He desarrollado proyectos web utilizando HTML y CSS para crear interfaces atractivas y funcionales, incluso en varios idiomas 
 - **Modelo de predicción sobre inversiones en restaurantes**: Como Data Engineer, he construido modelos predictivos para analizar y prever tendencias en inversiones gastronómicas.
 
 ## Imágenes y Visualizaciones
@@ -26,6 +26,7 @@ Aquí puedes ver algunos de mis trabajos:
 A continuación, algunas imágenes que ilustran mi trabajo:
 
 ![Proyecto de HTML y CSS](URL_DE_TU_IMAGEN_1)
+![App para precios de cortes de carne]
 ![Proyecto de Data Engineer](URL_DE_TU_IMAGEN_2)
 
 ---
