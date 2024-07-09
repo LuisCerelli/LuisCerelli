@@ -1,6 +1,8 @@
+![Proyecto de HTML y CSS](LCDE.png)
+
 # Bienvenido a mi Perfil de GitHub
 
-**Hola, soy Luis Alberto Cerelli**, un apasionado **Data Engineer** con una sólida trayectoria en la industria de la gastronomía y una vasta experiencia en áreas como **finanzas, comercio, manufactura, energía y recursos**. He vivido en América Latina, Italia y Francia, lo que me ha permitido hablar español e italiano con fluidez, además de tener un buen dominio del francés y el inglés.
+**Hola, soy Luis**, un apasionado **Data Engineer** con una sólida trayectoria en la industria de la gastronomía y una vasta experiencia en áreas como **finanzas, comercio, manufactura, energía y recursos**. He vivido en América Latina, Italia y Francia, lo que me ha permitido hablar español e italiano con fluidez, además de tener un buen dominio del francés y el inglés.
 
 ## Mi Trayectoria
 
@@ -23,7 +25,7 @@ Aquí puedes ver algunos de mis trabajos:
 
 ## Imágenes y Visualizaciones
 
-A continuación, algunas imágenes que ilustran mi trabajo:
+A continuación, algunas imágenes que ilustran mi trabajo seguidas por sus enlaces de aplicación:
 
 ![Proyecto de HTML y CSS](StaMariaSalomeEspItalian.png)
 
