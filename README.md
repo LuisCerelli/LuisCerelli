@@ -25,9 +25,24 @@ Aquí puedes ver algunos de mis trabajos:
 
 A continuación, algunas imágenes que ilustran mi trabajo:
 
-![Proyecto de HTML y CSS](URL_DE_TU_IMAGEN_1)
-![App para precios de cortes de carne]
-![Proyecto de Data Engineer](URL_DE_TU_IMAGEN_2)
+![Proyecto de HTML y CSS](StaMariaSalomeEspItalian.png)
+
+- [Oracion e historia a Santa Maria Salome en Español e Italiano](https://preghierasmsalome.000webhostapp.com/)
+
+ <br><br><br><br><br>
+
+![App para precios de cortes de carne](AppPreciosCarniceria.png)
+
+- [App para precios carniceria](https://mis-precios-de-carne.000webhostapp.com/)
+
+<br><br><br><br><br>
+
+
+![Proyecto de Data Engineer](PrediccionCrecimientoML.png)
+
+- [Modelo ML de prediccion de Crecimiento e identificacion de oportunidades](https://cognicorp-gy.streamlit.app)
+
+<br><br><br><br><br>
 
 ---
 
