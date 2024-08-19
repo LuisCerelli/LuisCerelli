@@ -29,7 +29,7 @@ A continuación, algunas imágenes que ilustran mi trabajo seguidas por sus enla
 
 ![Proyecto de HTML y CSS](StaMariaSalomeEspItalian.png)
 
-- [Oracion e historia a Santa Maria Salome en Español e Italiano](https://preghierasmsalome.000webhostapp.com/)
+- [Oracion e historia a Santa Maria Salome en Español e Italiano](https://luiscerelli.github.io/PreghieraSMSalome/)
 
  <br><br><br><br><br>
 
