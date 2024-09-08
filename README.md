@@ -2,11 +2,11 @@
 
 # Bienvenido a mi Perfil de GitHub
 
-**Hola, soy Luis**, un apasionado **Data Engineer** con una sólida trayectoria en la industria de la gastronomía y una vasta experiencia en áreas como **finanzas, comercio, manufactura, energía y recursos**. He vivido en América Latina, Italia y Francia, lo que me ha permitido hablar español e italiano con fluidez, además de tener un buen dominio del francés y el inglés.
+**Hola, soy Luis**, un **Data Engineer** con trayectoria en la industria de la gastronomía y una vasta experiencia en áreas como **finanzas, comercio, manufactura, energía y recursos**. He vivido en América Latina, Italia y Francia, lo que me permite hablar español e italiano con fluidez, además de tener un buen dominio del francés y el inglés.
 
-## Mi Trayectoria
+## Trayectoria
 
-Durante años, he liderado equipos en la industria gastronómica, desarrollando habilidades en **gestión financiera, análisis de costos y optimización de operaciones**. Esta experiencia me llevó a explorar otras áreas, incluyendo finanzas, comercio y manufactura, donde he aplicado exitosamente mis habilidades y conocimientos de gestión.
+Durante años, lideré equipos en la industria gastronómica, desarrollando habilidades en **gestión financiera, análisis de costos y optimización de operaciones**. Esta experiencia me llevó a explorar otras áreas, incluyendo finanzas, comercio y manufactura, donde he aplicado exitosamente mis habilidades y conocimientos de gestión.
 
 ## Como Data Engineer
 
