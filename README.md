@@ -16,41 +16,12 @@ Actualmente, combino toda mi experiencia en diversos sectores con mi formación 
 
 Estoy comprometido con el **aprendizaje continuo y la mejora constante**, siempre buscando contribuir al éxito empresarial. Me encanta enfrentar nuevos desafíos, aprender de mis colegas y contribuir al desarrollo de proyectos innovadores en el campo de la ciencia de datos.
 
-## Proyectos Destacados
+#### Actualmente cursando las carreras de Ciberseguridad en Google: 
+[Ciberseguridad de Google Specialization](https://www.coursera.org/learn/conexion-y-proteccion-redes-y-seguridad-de-redes/home/info)
 
-Aquí puedes ver algunos de mis trabajos:
+#### y Microsoft Azure: 
 
-- **HTML y CSS sencillo**: He desarrollado proyectos web utilizando HTML y CSS para crear interfaces atractivas y funcionales, incluso en varios idiomas 
-- **Modelo de predicción sobre inversiones en restaurantes**: Como Data Engineer, he construido modelos predictivos para analizar y prever tendencias en inversiones gastronómicas.
-
-## Imágenes y Visualizaciones
-
-A continuación, algunas imágenes que ilustran mi trabajo seguidas por sus enlaces de aplicación:
-
-![Proyecto de HTML y CSS](StaMariaSalomeEspItalian.png)
-
-- [Oracion e historia a Santa Maria Salome en Español e Italiano](https://luiscerelli.github.io/PreghieraSMSalome/)
-
- <br><br><br><br><br>
-
-![App para precios de cortes de carne](AppPreciosCarniceria.png)
-
-- [App para precios carniceria](https://mis-precios-de-carne.000webhostapp.com/)
-
-<br><br><br><br><br>
-
-
-![Proyecto de Data Engineer](PrediccionCrecimientoML.png)
-
-- [Modelo ML de prediccion de Crecimiento e identificacion de oportunidades](https://cognicorp-gy.streamlit.app)
-
-<br><br><br><br><br>
-
----
-
-Gracias por visitar mi perfil. Estoy siempre abierto a nuevas oportunidades y colaboraciones en el campo de la **Data Engineer**. Si tienes algún proyecto interesante o deseas discutir cómo podemos trabajar juntos, no dudes en contactarme.
-
-¡Espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos!
+[Microsoft Azure: Bootcamp de DB en la nube con Azure](https://codigofacilito.com/bootcamps/dp-900/dashboard)
 
 
 
