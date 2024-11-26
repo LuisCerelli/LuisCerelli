@@ -2,7 +2,7 @@
 
 # Bienvenido a mi Perfil de GitHub
 
-**Soy Data Engineer y Data Scientist** con trayectoria en la industria de la gastronomía y una vasta experiencia en áreas como **finanzas, comercio, manufactura, energía y recursos**. He vivido en América Latina, Italia y Francia, lo que me permite hablar español e italiano, francés e inglés.
+**Data Engineer y Data Scientist** con trayectoria en la industria de la gastronomía y una vasta experiencia en áreas como **finanzas, comercio, manufactura, energía y recursos**. He vivido en América Latina, Italia y Francia, lo que me permite hablar español e italiano, francés e inglés.
 
 ## Trayectoria
 
