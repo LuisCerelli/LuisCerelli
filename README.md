@@ -12,6 +12,12 @@ Durante años, lideré equipos en la industria gastronómica, desarrollando habi
 
 Estoy comprometido con el **aprendizaje continuo y la mejora constante**, siempre buscando contribuir al éxito empresarial. Me encanta enfrentar nuevos desafíos, aprender de mis colegas y contribuir al desarrollo de proyectos innovadores en el campo de la ciencia de datos.
 
+### Cusros y desafios finalizados: 
+
+[What The Hack - OpenAI powered by Microsoft](Certificado%-%What%The%Hack%-%OpenAI%powered%by%Microsoft.pdf)
+
+
+
 #### Actualmente cursando las carreras de Ciberseguridad en Google: 
 [Ciberseguridad de Google Specialization](https://www.coursera.org/learn/herramientas-del-oficio-linux-y-sql/home/assignments)
 
