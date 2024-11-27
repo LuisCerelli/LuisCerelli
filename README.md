@@ -25,5 +25,7 @@ Estoy comprometido con el **aprendizaje continuo y la mejora constante**, siempr
 
 [Microsoft Azure: Bootcamp de DB en la nube con Azure](https://codigofacilito.com/bootcamps/dp-900/dashboard)
 
+[Bootcamp de Ciencia de Datos con Azure](_)
+
 
 
