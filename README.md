@@ -14,7 +14,7 @@ Estoy comprometido con el **aprendizaje continuo y la mejora constante**, siempr
 
 ### Cusros y desafios finalizados: 
 
-![What The Hack - OpenAI powered by Microsoft](Certificado_What_The_Hack_OpenAI_powered_by_Microsoft.pdf)
+[What The Hack - OpenAI powered by Microsoft](Certificado_What_The_Hack_OpenAI_powered_by_Microsoft.pdf)
 
 
 
