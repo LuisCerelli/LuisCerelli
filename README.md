@@ -13,7 +13,7 @@ Durante años, lideré equipos en la industria gastronómica, desarrollando habi
 Estoy comprometido con el **aprendizaje continuo y la mejora constante**, siempre buscando contribuir al éxito empresarial. Me encanta enfrentar nuevos desafíos, aprender de mis colegas y contribuir al desarrollo de proyectos innovadores en el campo de la ciencia de datos.
 
 #### Actualmente cursando las carreras de Ciberseguridad en Google: 
-[Ciberseguridad de Google Specialization](https://www.coursera.org/learn/conexion-y-proteccion-redes-y-seguridad-de-redes/home/info)
+[Ciberseguridad de Google Specialization](https://www.coursera.org/learn/herramientas-del-oficio-linux-y-sql/home/assignments)
 
 #### y Microsoft Azure: 
 
