@@ -37,7 +37,7 @@ Desarrollo e implementación de un chatbot con **OpenAI** y **Microsoft Azure**,
   [Ciberseguridad de Google Specialization](https://www.coursera.org/learn/herramientas-del-oficio-linux-y-sql/home/assignments)  
 - **Bootcamps con Microsoft Azure - CódigoFacilito**  
   - [DP-900: Bootcamp de DB en la nube con Azure](https://codigofacilito.com/bootcamps/dp-900/dashboard)  
-  - Bootcamp de Ciencia de Datos con Azure  
+  - [Bootcamp de Ciencia de Datos con Azure](https://codigofacilito.com/programas/azure-datos)
 
 ---
 
