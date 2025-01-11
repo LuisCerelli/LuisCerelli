@@ -18,7 +18,7 @@ Más adelante, mi curiosidad y compromiso con el aprendizaje continuo me llevaro
 ## Proyectos Destacados
 
 ### Chatbot "Huella de Carbono"
-Desarrollo e implementación de un chatbot con **OpenAI** y **Microsoft Azure**, diseñado para minimizar errores en respuestas (alucinación) y optimizar la experiencia del usuario. Más detalles disponibles en mi [repositorio del proyecto](https://github.com/LuisCerelli/Hackathon_Innovation_Hallucination_Detection_and_Context_Validation).
+Desarrollo e implementación de un chatbot con **OpenAI** y **Microsoft Azure**, diseñado para minimizar errores en respuestas (alucinación) y optimizar la experiencia del usuario. Más detalles disponibles en mi [repositorio del proyecto](https://github.com/LuisCerelli/ChatBot_Huella_de_Carbono).
 
 ---
 
